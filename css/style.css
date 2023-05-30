@@ -605,7 +605,7 @@ p {
 @media only screen and (min-width: 1156px) {
   .li-cust {
     width: calc((100% - 120px) / 6);
-    height: 88px;
+    /* height: 88px; */
   }
 }
 
